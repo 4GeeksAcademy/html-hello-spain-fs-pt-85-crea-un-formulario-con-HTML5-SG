@@ -1,0 +1,24 @@
+.alert{
+    position: relative;
+    margin-left: 17px;
+    width: 1150px;
+}
+.mb-3{
+    position: relative;
+    margin-left: 25px;
+}
+.mb-1{
+    position: relative;
+    margin-left: 480px;
+    margin-top: -63px;
+}
+.icon{
+    position: relative;
+    margin-left: 60px;
+    margin-top: -33px;
+}
+.container{
+    position: relative;
+    margin-left: -4px;
+    margin-top: 5px;
+}
