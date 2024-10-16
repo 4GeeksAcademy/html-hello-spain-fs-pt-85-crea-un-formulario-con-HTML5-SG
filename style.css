@@ -1,20 +1,36 @@
-.alert{
-    position: relative;
-    margin-left: 17px;
-    width: 1150px;
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
 }
-.row{
-    position: relative;
-    margin-top: 100px;
-    margin-left: 60px;
+.input-group {
+    width: 100%;
+    margin: 0;
 }
-.form-floating{
-    position: relative;
-    margin-left: 675px;
-    margin-top: -50px;
+.alert {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
 }
-.buttons{
-    position: relative;
-    margin-left: 1030px;
+.row {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+}
+.form-floating {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttons {
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.buttons .btn {
+    margin-right: 10px;
 }
