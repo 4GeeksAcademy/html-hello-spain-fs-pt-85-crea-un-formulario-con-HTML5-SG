@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 .alert {
-    width: auto;
+    width: 100%;
     margin-left: 0;
     margin-right: 0;
     max-width: 100%;
@@ -33,4 +33,7 @@ body {
 }
 .buttons .btn {
     margin-right: 10px;
+} 
+#floatingTextarea2{
+    width: 100%;
 }
