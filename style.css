@@ -37,3 +37,10 @@ body {
 #floatingTextarea2{
     width: 100%;
 }
+.payment{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 10px;
+    left: 23px;
+}
